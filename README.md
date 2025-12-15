@@ -1,2 +1,2 @@
 # cv_carolina_ezequiel
-My updated resume
+My professional CV in multiple formats (PDF, markdown)
